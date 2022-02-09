@@ -1,7 +1,6 @@
 # Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations
 
-This repository is the implementation of [Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations
-](https://arxiv.org/abs/2202.02894). If you use this repo or paper, please consider citing it.
+This repository is the implementation of [Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations](https://arxiv.org/abs/2202.02894). If you use this repo or paper, please consider citing it.
 
 The dataset used can be found [here](https://www.kaggle.com/andrewmvd/cyberbullying-classification).
 

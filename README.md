@@ -6,13 +6,11 @@ The dataset used can be found [here](https://www.kaggle.com/andrewmvd/cyberbully
 
 ## Citation :
 ```
-@misc{tambe2022effects,
-      title={Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations}, 
-      author={Sayali Tambe and Raunak Joshi and Abhishek Gupta and Nandan Kanvinde and Vidya Chitre},
-      year={2022},
-      eprint={2202.02894},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{tambe2022effects,
+  title={Effects of Parametric and Non-Parametric Methods on High Dimensional Sparse Matrix Representations},
+  author={Tambe, Sayali and Joshi, Raunak and Gupta, Abhishek and Kanvinde, Nandan and Chitre, Vidya},
+  journal={arXiv preprint arXiv:2202.02894},
+  year={2022}
 }
 ```
 ## Results :
